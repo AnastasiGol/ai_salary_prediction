@@ -10,7 +10,7 @@ It also explores **which factors influence salary the most** and **which skills 
 * Perform **EDA**, **Feature Engineering**, and **Model Comparison**
 * Identify most influential features and valuable skills
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 ├── 01-EDA.ipynb             # Exploratory Data Analysis
@@ -22,7 +22,7 @@ It also explores **which factors influence salary the most** and **which skills 
 └── README.md
 ```
 
-## 🧪 Models Compared
+## Models Compared
 
 * Support Vector Machine (SVM)
 * Random Forest
@@ -31,7 +31,7 @@ It also explores **which factors influence salary the most** and **which skills 
 
 Models were built using **Scikit-learn Pipelines** with **GridSearchCV** for hyperparameter tuning.
 
-## 🏆 Results
+## Results
 
 Best performance achieved by:
 **Random Forest Regressor** with the lowest MSE.
